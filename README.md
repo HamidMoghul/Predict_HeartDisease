@@ -31,7 +31,7 @@ MaxHR: maximum heart rate achieved [Numeric value between 60 and 202]
 
 ExerciseAngina: exercise-induced angina [Y: Yes, N: No]
 
-Oldpeak: oldpeak = ST [Numeric value measured in depression]
+Oldpeak: oldpeak = ST segement in ECG [Numeric value measured in depression]
 
 ST_Slope: the slope of the peak exercise ST segment 
 * Up: upsloping
